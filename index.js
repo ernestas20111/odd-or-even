@@ -1,6 +1,6 @@
 'use strict';
 
-class OddOrEven {
+class OddOrEvenNumber {
     constructor(number) {
         validateNumberAndThrow(number);
         this.number = number;
@@ -39,6 +39,6 @@ function isEven(number) {
     return number % 2 === 0;
 }
 
-module.exports = OddOrEven;
+module.exports = OddOrEvenNumber;
 module.exports.isOdd = isOdd;
 module.exports.isEven = isEven;

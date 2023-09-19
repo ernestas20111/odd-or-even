@@ -1,5 +1,5 @@
 {
-  "name": "odd-or-even",
+  "name": "odd-or-even-number",
   "version": "1.0.0",
   "description": "Is odd or even",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ernestas20111/odd-or-even.git"
+    "url": "git@github.com:ernestas20111/odd-or-even-number.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +18,7 @@
   "author": "Ernestas Ščevinskas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ernestas20111/odd-or-even/issues"
+    "url": "https://github.com/ernestas20111/odd-or-even-number/issues"
   },
-  "homepage": "https://github.com/ernestas20111/odd-or-even#readme"
+  "homepage": "https://github.com/ernestas20111/odd-or-even-number#readme"
 }

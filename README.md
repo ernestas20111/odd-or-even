@@ -1,19 +1,19 @@
-# odd-or-even
-Is odd or even
+# odd-or-even-number
+Is number odd or even
 
 ## Usage
 *isOdd* and *isEven* can be used either as a **class**
 ```
-const OddOrEven = require('odd-or-even');
+const OddOrEvenNumber = require('odd-or-even-number');
 
-const oddOrEven = new OddOrEven(2);
+const oddOrEvenNumber = new OddOrEvenNumber(2);
 
-console.log(oddOrEven.isOdd()); // false
-console.log(oddOrEven.isEven()); // true
+console.log(oddOrEvenNumber.isOdd()); // false
+console.log(oddOrEvenNumber.isEven()); // true
 ```
 or as **functions**
 ```
-const { isOdd, isEven } = require('odd-or-even');
+const { isOdd, isEven } = require('odd-or-even-number');
 
 console.log(isOdd(2)); // false
 console.log(isEven(2)); // true
