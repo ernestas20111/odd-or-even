@@ -1,0 +1,24 @@
+{
+  "name": "odd-or-even",
+  "version": "1.0.0",
+  "description": "Is odd or even",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ernestas20111/odd-or-even.git"
+  },
+  "keywords": [
+    "javascript",
+    "odd",
+    "even"
+  ],
+  "author": "Ernestas Ščevinskas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestas20111/odd-or-even/issues"
+  },
+  "homepage": "https://github.com/ernestas20111/odd-or-even#readme"
+}
